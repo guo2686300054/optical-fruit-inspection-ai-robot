@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "hx711.h": "c",
+            "system.h": "c",
+            "bmp.h": "c",
+            "oledfont.h": "c",
+            "oled.h": "c",
+            "string.h": "c"
+        }
+    },
+    "extensions": {}
+}
